@@ -1,6 +1,6 @@
 # Python---Skill-Understanding-Projects
 
-This project was created to demonstrate my skills and understanding of many important functions used by Data Scientists. I will completes sections fo code to demonstrate the skill in this order 
+This project was created to demonstrate my skills and understanding of many important functions used by Data Scientists. I will completes sections fo code to demonstrate it. 
 
 1)  Use matplotlib and seaborn for data visualizations
 2)  Use plotly for interactive visualizations
