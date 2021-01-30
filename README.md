@@ -4,7 +4,7 @@ This project was created to develop my skills and understanding of many importan
 
 1)  Use matplotlib and seaborn for data visualizations
 2)  Use plotly for interactive visualizations
-3)  Machine Learning with SciKit Learn, including:
+3)  Machine Learning
 4)  Linear Regression
 5)  K Nearest Neighbors
 6)  K Means Clustering
