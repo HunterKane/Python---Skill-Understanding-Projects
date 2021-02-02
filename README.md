@@ -1,6 +1,6 @@
 # Python---Skill-Understanding-Projects
 
-This project was created to develop my skills and understanding of many important visualizations and Machne Learning skills used by Data Scientists. I will completes sections of code to demonstrate it. 
+This project was created to develop my skills and understanding of many important visualizations and Machine Learning skills used by Data Scientists. I will complete sections of code to demonstrate it varies aspects. 
 
 1)  Use matplotlib and seaborn for data visualizations
 2)  Use plotly for interactive visualizations
@@ -13,6 +13,7 @@ This project was created to develop my skills and understanding of many importan
 9)  Natural Language Processing
 10) Neural Nets and Deep Learning
 11) Support Vector Machines
+
 
 
 
