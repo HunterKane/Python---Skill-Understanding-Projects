@@ -8,11 +8,10 @@ This project was created to develop my skills and understanding of many importan
 4)  Linear Regression
 5)  K Nearest Neighbors
 6)  K Means Clustering
-7)  Decision Trees
-8)  Random Forests
-9)  Natural Language Processing
-10) Neural Nets and Deep Learning
-11) Support Vector Machines
+7)  Decision Tree and Random Forests
+8)  Natural Language Processing
+9) Neural Nets and Deep Learning
+10) Support Vector Machines
 
 
 
