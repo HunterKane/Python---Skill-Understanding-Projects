@@ -10,8 +10,7 @@ This project was created to develop my skills and understanding of many importan
 6)  K Means Clustering
 7)  Decision Tree and Random Forests
 8)  Natural Language Processing
-9) Neural Nets and Deep Learning
-10) Support Vector Machines
+9) Support Vector Machines
 
 
 
